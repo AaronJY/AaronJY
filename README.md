@@ -16,4 +16,4 @@ My tech stack includes:
 - **Cloud Services:** DigitalOcean, Google Cloud Platform (GCP)
 - **Self-Hosting:** Ubuntu Server (with Hetzner)
 
-I enjoy working on projects that challenge me to use these technologies in innovative ways.
+I enjoy working on projects that challenge me to use these and other technologies in new ways.
