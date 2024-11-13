@@ -1,6 +1,6 @@
 # Hello, I'm Aaron! 👋🏻
 
-I'm a British Software Engineer based in Newcastle-upon-Tyne, UK. Welcome to my GitHub profile!
+I'm a British Software Engineer based in Leeds, UK. Welcome to my GitHub profile!
 
 For more about my work and thoughts, visit my website: [www.aaronjy.me](https://www.aaronjy.me)
 
