@@ -1,19 +1,8 @@
-# Hello, I'm Aaron! 👋🏻
+# I've moved! 👋
 
-I'm a British Software Engineer based in Leeds, UK. Welcome to my GitHub profile!
+All of my source code has now moved to https://git.aaronjy.me - a Forgejo instance I run and manage on my own servers.
 
-For more about my work and thoughts, visit my website: [www.aaronjy.me](https://www.aaronjy.me)
-
-## 👨‍💻 Professional Background
-
-I currently work as a Lead Consultant at Hippo, focusing on public sector projects for the Department of Education. My role involves using my software consultancy experience to deliver solutions in the education sector.
-
-## 🛠️ Technical Expertise
-
-My tech stack includes:
-
-- **Software Development:** Node.js, TypeScript, JavaScript, Next.js, .NET Core, C#, ASP.NET, Python
-- **Cloud Services:** DigitalOcean, Google Cloud Platform (GCP)
-- **Self-Hosting:** Ubuntu Server (with Hetzner)
-
-I enjoy working on projects that challenge me to use these and other technologies in new ways.
+There are a few reasons for this:
+- I believe it's important to own and control my own data
+- I do not want my private repositories to be used to train LLMs
+- In protest of the current (2025) USA administration, I am reducing my usage and reliance on American products and services
