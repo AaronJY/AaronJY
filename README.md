@@ -1,6 +1,6 @@
 # I've moved! 👋
 
-All of my source code has now moved to https://git.aaronjy.me - a Forgejo instance I run and manage on my own servers.
+All of my source code has now moved to [git.aaronjy.me](https://git.aaronjy.me/aaron) - a Forgejo instance I run and manage on my own servers.
 
 There are a few reasons for this:
 - I believe it's important to own and control my own data
