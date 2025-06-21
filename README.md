@@ -12,4 +12,4 @@ There are a few reasons for this:
 If you're interested in supporting Palestinians suffering occupation and genocide but don't know where to start, visit the links below:
 - [**Funds for Gaza**](https://letstalkpalestine.com/funds-for-gaza/) *by Let's Talk Palestine* - a vetted list of active fundraisers to give directly to Palestinian families/causes that need it
 - [**Palestine 101**](https://letstalkpalestine.com/palestine101/) *by Let's Talk Palestine* - a beginner-friendly introduction on Palestinian history and terminology
-- [**BDS Boycott List**](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide) *by BDS* - information on popular brands benfitting from the Palestinian genocide, and how/why to boycott them
+- [**BDS Boycott List**](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide) *by BDS* - information on popular brands benifitting from the Palestinian genocide, and how/why to boycott them
